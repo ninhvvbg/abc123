@@ -1,0 +1,14 @@
+{
+  "name": "ninhvv",
+  "version": "1.0.0",
+  "description": "viết gì cũng được",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "abc"
+  ],
+  "author": "ninh vi",
+  "license": "ISC"
+}
